@@ -1,10 +1,58 @@
 {
-  "name": "e1",
-  "version": "0.0.0",
-  "private": true,
-  "scripts": {
-    "start": "node ./bin/www"
+  "_args": [
+    [
+      {
+        "raw": "e1@github:uidev547/e1",
+        "scope": null,
+        "escapedName": "e1",
+        "name": "e1",
+        "rawSpec": "github:uidev547/e1",
+        "spec": "github:uidev547/e1",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:uidev547/e1.git",
+          "sshUrl": "git+ssh://git@github.com/uidev547/e1.git",
+          "httpsUrl": "git+https://github.com/uidev547/e1.git",
+          "gitUrl": "git://github.com/uidev547/e1.git",
+          "shortcut": "github:uidev547/e1",
+          "directUrl": "https://raw.githubusercontent.com/uidev547/e1/master/package.json"
+        }
+      },
+      "/home/kirana/projects/multiple-express"
+    ]
+  ],
+  "_from": "uidev547/e1",
+  "_id": "e1@0.0.0",
+  "_inCache": true,
+  "_location": "/e1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "e1@github:uidev547/e1",
+    "scope": null,
+    "escapedName": "e1",
+    "name": "e1",
+    "rawSpec": "github:uidev547/e1",
+    "spec": "github:uidev547/e1",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:uidev547/e1.git",
+      "sshUrl": "git+ssh://git@github.com/uidev547/e1.git",
+      "httpsUrl": "git+https://github.com/uidev547/e1.git",
+      "gitUrl": "git://github.com/uidev547/e1.git",
+      "shortcut": "github:uidev547/e1",
+      "directUrl": "https://raw.githubusercontent.com/uidev547/e1/master/package.json"
+    }
   },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git://github.com/uidev547/e1.git#5342d4d25d0e538af0da4832d4248508dafe9120",
+  "_shasum": "7db6a0775646c4b2b2dc09b7623d0a9a85d24dc0",
+  "_shrinkwrap": null,
+  "_spec": "e1@github:uidev547/e1",
+  "_where": "/home/kirana/projects/multiple-express",
   "dependencies": {
     "body-parser": "~1.16.0",
     "cookie-parser": "~1.4.3",
@@ -13,5 +61,15 @@
     "jade": "~1.11.0",
     "morgan": "~1.7.0",
     "serve-favicon": "~2.3.2"
-  }
+  },
+  "devDependencies": {},
+  "gitHead": "5342d4d25d0e538af0da4832d4248508dafe9120",
+  "name": "e1",
+  "optionalDependencies": {},
+  "private": true,
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "version": "0.0.0"
 }
